@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  #current-time {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #80e3f5;
+    color: #d84e4e;
+    cursor: pointer;
+  }
+  body {
+    background-color: #dd7cdd;
+    font-family: Arial;
+    margin:0;
+    text-align: center;
+  }
+  
+  #laps {
+    list-style: none;
+    padding: 0;
+      background-color: #eff787;
+  }
